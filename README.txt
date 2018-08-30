@@ -6,4 +6,5 @@ line from Jane
 new line from Eclipse
 new line from branch1
 new line from branch1
+new line from branch2
 new line from master
